@@ -16,27 +16,27 @@ Foi construído usando:
 
 ## 📂 *Estrutura do Projeto*
 
-src/main/java/com.curso/curso/
-|
-|- controller/
-   |- DisciplinaController.java
-|
-|- dto/
-   |- DisciplinaRecordDto.java
-|
-|- enums/
-   |- CategoriaDisciplina.java
-|
-|- model/
-   |- DisciplinaModel.java
-|
-|- repository/
-   |- DisciplinaRepository.java
-|
-|- service/
-   |- DisciplinaService.java
-   |- impl/
-      |- DisciplinaServiceImpl.java
+src/main/java/com/curso/curso/
+│
+├── controller/
+│   └── DisciplinaController.java
+│
+├── dto/
+│   └── DisciplinaRecordDto.java
+│
+├── enums/
+│   └── CategoriaDisciplina.java
+│
+├── model/
+│   └── DisciplinaModel.java
+│
+├── repository/
+│   └── DisciplinaRepository.java
+│
+├── service/
+│   ├── DisciplinaService.java
+│   └── impl/
+│       └── DisciplinaServiceImpl.java
 
 
 ## 🛠 *Tecnologias Utilizadas*
