@@ -15,7 +15,7 @@ Foi construído usando:
 
 
 ## 📂 *Estrutura do Projeto*
-
+```
 src/main/java/com/curso/curso/
 │
 ├── controller/
@@ -37,7 +37,7 @@ src/main/java/com/curso/curso/
 │   ├── DisciplinaService.java
 │   └── impl/
 │       └── DisciplinaServiceImpl.java
-
+```
 
 ## 🛠 *Tecnologias Utilizadas*
 
