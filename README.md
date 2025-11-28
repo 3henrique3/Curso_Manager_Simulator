@@ -16,7 +16,7 @@ Foi construído usando:
 
 ## 📂 *Estrutura do Projeto*
 ```
-src/main/java/com/curso/curso/
+src/main/java/com/henrique/curso/
 │
 ├── controller/
 │   └── DisciplinaController.java
