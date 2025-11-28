@@ -16,27 +16,27 @@ Foi construído usando:
 
 ## 📂 *Estrutura do Projeto*
 
-
-src/main/java/com.henrique/curso/
-│
-├── controller/
-│   └── DisciplinaController.java
-│
-├── dto/
-│   └── DisciplinaRecordDto.java
-│
-├── enums/
-│   └── CategoriaDisciplina.java
-│
-├── model/
-│   └── DisciplinaModel.java
-│
-├── repository/
-│   └── DisciplinaRepository.java
-│
-├── service/
-│   ├── DisciplinaService.java
-│   └── impl/DisciplinaServiceImpl.java
+src/main/java/com.curso/curso/
+|
+|- controller/
+   |- DisciplinaController.java
+|
+|- dto/
+   |- DisciplinaRecordDto.java
+|
+|- enums/
+   |- CategoriaDisciplina.java
+|
+|- model/
+   |- DisciplinaModel.java
+|
+|- repository/
+   |- DisciplinaRepository.java
+|
+|- service/
+   |- DisciplinaService.java
+   |- impl/
+      |- DisciplinaServiceImpl.java
 
 
 ## 🛠 *Tecnologias Utilizadas*
@@ -167,7 +167,7 @@ Retorno esperado:
 204 NO CONTENT
 
 
-# 🧪 Testando no Postman
+# ⌨️ Testando no Postman
 
 Use os endpoints conforme acima.
 
@@ -212,7 +212,7 @@ xml
 </dependency>
 
 
-# 🧑‍💻 Autor
+# 💻 Autor
 
 *Pedro Henrique*
 Projeto de estudo seguindo roadmap Java + Spring Boot.
